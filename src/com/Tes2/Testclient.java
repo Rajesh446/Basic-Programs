@@ -16,7 +16,7 @@ public class Testclient
 		System.out.println(e.getEmpid());
 		System.out.println(e.getName());
 		System.out.println(e.getSsn());
-		System.out.println(e.getSalary());
+		System.out.println(e.getSalary ());
 	}
 	
 	
